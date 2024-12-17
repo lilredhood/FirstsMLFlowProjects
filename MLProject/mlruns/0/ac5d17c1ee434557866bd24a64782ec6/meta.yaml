@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ac5d17c1ee434557866bd24a64782ec6/artifacts
+end_time: 1734389877655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac5d17c1ee434557866bd24a64782ec6
+run_name: sassy-doe-334
+run_uuid: ac5d17c1ee434557866bd24a64782ec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734389819860
+status: 3
+tags: []
+user_id: Colin

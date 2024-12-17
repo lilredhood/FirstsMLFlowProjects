@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Colin/Desktop/MLOps/MLFlow/mlruns/444722773841647984/28d144cb508d423bad188da871244c43/artifacts
+end_time: 1734305701409
+entry_point_name: ''
+experiment_id: '444722773841647984'
+lifecycle_stage: active
+run_id: 28d144cb508d423bad188da871244c43
+run_name: mercurial-lynx-614
+run_uuid: 28d144cb508d423bad188da871244c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734305701385
+status: 3
+tags: []
+user_id: Colin
