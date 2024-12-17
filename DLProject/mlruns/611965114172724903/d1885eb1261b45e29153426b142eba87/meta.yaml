@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Colin/Desktop/MLOps/MLFlow/DLProject/mlruns/611965114172724903/d1885eb1261b45e29153426b142eba87/artifacts
+end_time: 1734478416885
+entry_point_name: ''
+experiment_id: '611965114172724903'
+lifecycle_stage: active
+run_id: d1885eb1261b45e29153426b142eba87
+run_name: stately-ox-824
+run_uuid: d1885eb1261b45e29153426b142eba87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734478412106
+status: 3
+tags: []
+user_id: Colin

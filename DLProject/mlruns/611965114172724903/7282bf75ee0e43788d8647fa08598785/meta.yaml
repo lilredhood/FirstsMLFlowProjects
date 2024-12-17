@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Colin/Desktop/MLOps/MLFlow/DLProject/mlruns/611965114172724903/7282bf75ee0e43788d8647fa08598785/artifacts
+end_time: 1734478420982
+entry_point_name: ''
+experiment_id: '611965114172724903'
+lifecycle_stage: active
+run_id: 7282bf75ee0e43788d8647fa08598785
+run_name: overjoyed-fox-353
+run_uuid: 7282bf75ee0e43788d8647fa08598785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734478397629
+status: 3
+tags: []
+user_id: Colin

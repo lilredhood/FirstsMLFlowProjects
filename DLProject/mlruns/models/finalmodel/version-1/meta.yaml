@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734478704448
+current_stage: None
+description: ''
+last_updated_timestamp: 1734478704448
+name: finalmodel
+run_id: 7282bf75ee0e43788d8647fa08598785
+run_link: ''
+source: file:///c:/Users/Colin/Desktop/MLOps/MLFlow/DLProject/mlruns/611965114172724903/7282bf75ee0e43788d8647fa08598785/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Colin/Desktop/MLOps/MLFlow/DLProject/mlruns/611965114172724903/7282bf75ee0e43788d8647fa08598785/artifacts/model
+user_id: null
+version: 1

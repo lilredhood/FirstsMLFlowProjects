@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Colin/Desktop/MLOps/MLFlow/DLProject/mlruns/611965114172724903/6cc9b3f1b6e54615a8297f655c6183ce/artifacts
+end_time: 1734478402650
+entry_point_name: ''
+experiment_id: '611965114172724903'
+lifecycle_stage: active
+run_id: 6cc9b3f1b6e54615a8297f655c6183ce
+run_name: awesome-fawn-522
+run_uuid: 6cc9b3f1b6e54615a8297f655c6183ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734478397666
+status: 3
+tags: []
+user_id: Colin
